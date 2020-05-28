@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is Brach Develop
+=======
+This is branch Feature-1
+>>>>>>> feature-1
