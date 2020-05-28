@@ -1,3 +1,3 @@
-# Git Video 3 Lab 3 / Merge
+# Git Video 3 Lab 2 / Branch
 
-# This is Branch Develop
+## This is Brach Develop
