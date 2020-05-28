@@ -1,3 +1,0 @@
-this is a text file use for test git flow
-
-In Feature-1
