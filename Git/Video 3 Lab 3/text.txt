@@ -1,2 +1,5 @@
-this is a text file use for test git flow
-This is Master Branch
+<<<<<<< HEAD
+This is Brach Develop
+=======
+This is branch Feature-1
+>>>>>>> feature-1
