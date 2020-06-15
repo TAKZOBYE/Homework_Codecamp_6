@@ -10,4 +10,4 @@ if (point >= 80) {
     alert('D')
 } else if (point < 50) {
     alert('F')
-}
+} 
