@@ -1,0 +1,3 @@
+if (-1 || 0) alert('first'); ตอบ รัน
+if (-1 && 0) alert('second'); ตอบ ไม่รัน
+if (null || -1 && 0) alert('third'); ตอบ ไม่รัน

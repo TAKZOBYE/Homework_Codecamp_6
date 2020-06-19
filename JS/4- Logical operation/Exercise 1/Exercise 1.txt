@@ -1,0 +1,5 @@
+alert(null || 2 || undefined); ตอบ 2
+alert(alert(1) || 2 || alert(3)); alert(1)
+alert(1 && null && 2); ตอบ null 
+alert(alert(1) && alert(2)); ตอบ  alert(2)
+alert(null || 2 && 3 || 4); ตอบ 3
